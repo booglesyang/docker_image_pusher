@@ -1,1 +1,2 @@
 easzlab/kubeasz:3.5.0
+easzlab/kubeasz-k8s-bin:v1.26.0
