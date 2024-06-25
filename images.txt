@@ -3,6 +3,9 @@
 --platform linux/arm64 easzlab/kubeasz-ext-bin:1.10.1
 --platform linux/arm64 easzlab/kubeasz-sys-pkg:1.0.1_ubuntu_22
 --platform linux/arm64 easzlab/harbor-offline:v2.10.2
+--platform linux/arm64 calico/cni:v3.28.0
+--platform linux/arm64 calico/kube-controllers:v3.28.0
+--platform linux/arm64 calico/node:v3.28.0
 --platform linux/arm64 calico/cni:v3.26.4
 --platform linux/arm64 calico/kube-controllers:v3.26.4
 --platform linux/arm64 calico/node:v3.26.4
