@@ -1,3 +1,4 @@
+--platform linux/arm64 golang:1.22.4
 --platform linux/arm64 bitnami/harbor-registry:2
 --platform linux/arm64 bitnami/harbor-registryctl:2
 --platform linux/arm64 bitnami/postgresql:13
