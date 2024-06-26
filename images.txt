@@ -1,4 +1,5 @@
 --platform linux/arm64 bitnami/harbor-registry:2
+--platform linux/arm64 bitnami/harbor-registryctl:2
 --platform linux/arm64 bitnami/postgresql:13
 --platform linux/arm64 bitnami/harbor-core:2
 --platform linux/arm64 bitnami/harbor-portal:2
