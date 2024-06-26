@@ -1,58 +1,31 @@
---platform linux/arm64 golang:1.22.4
---platform linux/arm64 bitnami/harbor-registry:2
---platform linux/arm64 bitnami/harbor-registryctl:2
---platform linux/arm64 bitnami/postgresql:13
---platform linux/arm64 bitnami/harbor-core:2
---platform linux/arm64 bitnami/harbor-portal:2
---platform linux/arm64 bitnami/harbor-jobservice:2
---platform linux/arm64 bitnami/redis:7.0
---platform linux/arm64 bitnami/nginx:1.27
---platform linux/arm64 easzlab/kubeasz:3.6.4
---platform linux/arm64 easzlab/kubeasz-k8s-bin:v1.30.1
---platform linux/arm64 easzlab/kubeasz-ext-bin:1.10.1
---platform linux/arm64 easzlab/kubeasz-sys-pkg:1.0.1_ubuntu_22
---platform linux/arm64 easzlab/harbor-offline:v2.10.2
---platform linux/arm64 calico/cni:v3.28.0
---platform linux/arm64 calico/kube-controllers:v3.28.0
---platform linux/arm64 calico/node:v3.28.0
---platform linux/arm64 calico/cni:v3.26.4
---platform linux/arm64 calico/kube-controllers:v3.26.4
---platform linux/arm64 calico/node:v3.26.4
---platform linux/arm64 coredns/coredns:1.11.1
---platform linux/arm64 easzlab/k8s-dns-node-cache:1.22.28
---platform linux/arm64 kubernetesui/dashboard:v2.7.0 
---platform linux/arm64 kubernetesui/metrics-scraper:v1.0.8 
---platform linux/arm64 easzlab/metrics-server:v0.7.1 
---platform linux/arm64 easzlab/pause:3.9
---platform linux/arm64 cilium/cilium:v1.15.5 
---platform linux/arm64 cilium/operator-generic:v1.15.5  
---platform linux/arm64 cilium/hubble-relay:v1.15.5 
---platform linux/arm64 cilium/hubble-ui-backend:v0.13.0  
---platform linux/arm64 cilium/hubble-ui:v0.13.0  
---platform linux/arm64/v8 flannel/flannel:v0.22.2  
---platform linux/arm64 flannel/flannel:v0.25.4
---platform linux/arm64/v8 flannel/flannel-cni-plugin:v1.2.0 
---platform linux/arm64 bitnami/kubeapps-apis:2.7.0-debian-11-r10
---platform linux/arm64 bitnami/kubeapps-apprepository-controller:2.7.0-scratch-r0  
---platform linux/arm64 bitnami/kubeapps-asset-syncer:2.7.0-scratch-r0  
---platform linux/arm64 bitnami/kubeapps-dashboard:2.7.0-debian-11-r12  
---platform linux/arm64 bitnami/nginx:1.23.4-debian-11-r18  
---platform linux/arm64 bitnami/postgresql:15.3.0-debian-11-r0 
---platform linux/arm64 kubeovn/kube-ovn:v1.11.5 
---platform linux/arm64 cloudnativelabs/kube-router:v1.5.4
---platform linux/arm64/v8 rancher/local-path-provisioner:v0.0.26
---platform linux/arm64 easzlab/json-mock:v1.3.0  
---platform linux/arm64 easzlab/alpine-curl:v7.85.0 
---platform linux/arm64 easzlab/nfs-subdir-external-provisioner:v4.0.2
---platform linux/arm64 easzlab/kube-state-metrics:v2.8.2  
---platform linux/arm64 easzlab/kube-webhook-certgen:v1.5.1  
---platform linux/arm64 grafana/grafana:10.4.4
---platform linux/arm64/v8 grafana/grafana:9.4.7
---platform linux/arm64 quay.io/kiwigrid/k8s-sidecar:1.22.0  
---platform linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.63.0  
---platform linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.73.0  
---platform linux/arm64 quay.io/prometheus/alertmanager:v0.25.0  
---platform linux/arm64 quay.io/prometheus/node-exporter:v1.5.0  
---platform linux/arm64 quay.io/prometheus/prometheus:v2.52.0
---platform linux/arm64 registry:2 
---platform linux/arm64 easzlab/kubeasz:3.6.4
+--platform linux/arm64 nginx
+engchina/harbor-exporter:v2.7.1
+engchina/harbor-exporter-base:v2.7.1
+engchina/chartmuseum-photon:v2.7.1
+engchina/harbor-chartserver-b:v2.7.1
+engchina/redis-photon:v2.7.1
+engchina/harbor-redis-base:v2.7.1
+engchina/trivy-adapter-photon:v2.7.1
+engchina/harbor-trivy-adapter:v2.7.1
+engchina/harbor-notary-signer:v2.7.1
+engchina/harbor-notary-server:v2.7.1
+engchina/harbor-registryctl:v2.7.1
+engchina/harbor-registryctl-b:v2.7.1
+engchina/registry-photon:v2.7.1
+engchina/harbor-registry-base:v2.7.1
+engchina/harbor-nginx-base:v2.7.1
+engchina/nginx-photon:v2.7.1
+engchina/harbor-log:v2.7.1
+engchina/harbor-log-base:v2.7.1
+engchina/harbor-jobservice:v2.7.1
+engchina/harbor-jobservice-ba:v2.7.1
+engchina/harbor-core:v2.7.1
+engchina/harbor-core-base:v2.7.1
+engchina/harbor-portal:v2.7.1
+engchina/harbor-portal-base:v2.7.1
+engchina/harbor-db:v2.7.1
+engchina/harbor-db-base:v2.7.1
+engchina/prepare:v2.7.1
+engchina/harbor-prepare-base:v2.7.1
+engchina/notary-server-photon:v2.7.1
+engchina/notary-signer-photon:v2.7.1
