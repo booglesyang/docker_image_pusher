@@ -1,31 +1,3 @@
---platform linux/arm64 nginx
-engchina/harbor-exporter:v2.7.1
-engchina/harbor-exporter-base:v2.7.1
-engchina/chartmuseum-photon:v2.7.1
-engchina/harbor-chartserver-b:v2.7.1
-engchina/redis-photon:v2.7.1
-engchina/harbor-redis-base:v2.7.1
-engchina/trivy-adapter-photon:v2.7.1
-engchina/harbor-trivy-adapter:v2.7.1
-engchina/harbor-notary-signer:v2.7.1
-engchina/harbor-notary-server:v2.7.1
-engchina/harbor-registryctl:v2.7.1
-engchina/harbor-registryctl-b:v2.7.1
-engchina/registry-photon:v2.7.1
-engchina/harbor-registry-base:v2.7.1
-engchina/harbor-nginx-base:v2.7.1
-engchina/nginx-photon:v2.7.1
-engchina/harbor-log:v2.7.1
-engchina/harbor-log-base:v2.7.1
-engchina/harbor-jobservice:v2.7.1
-engchina/harbor-jobservice-ba:v2.7.1
-engchina/harbor-core:v2.7.1
-engchina/harbor-core-base:v2.7.1
-engchina/harbor-portal:v2.7.1
-engchina/harbor-portal-base:v2.7.1
-engchina/harbor-db:v2.7.1
-engchina/harbor-db-base:v2.7.1
-engchina/prepare:v2.7.1
-engchina/harbor-prepare-base:v2.7.1
-engchina/notary-server-photon:v2.7.1
-engchina/notary-signer-photon:v2.7.1
+--platform linux/arm64 calico/cni:3.6.1
+--platform linux/arm64 calico/node:3.6.1
+--platform linux/arm64 calico/kube-controllers:3.6.1
