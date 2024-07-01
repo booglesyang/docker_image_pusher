@@ -1,2 +1,2 @@
---platform linux/arm64 onlyoffice/documentserver:8.1
---platform linux/arm64 onlyoffice/documentserver:7.1.0
+--platform linux/arm64 mariadb:10.5
+--platform linux/arm64 nextcloud:29-apache
