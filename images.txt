@@ -1,2 +1,6 @@
---platform linux/arm64 mariadb:10.5
---platform linux/arm64 nextcloud:29-apache
+--platform linux/arm64 jumpserver/jms_all:v3.10.11
+--platform linux/arm64/v8 jumpserver/redis:7.2
+--platform linux/arm64/v8 jumpserver/mariadb:10.11
+--platform linux/arm64 redis:7.2.5
+--platform linux/arm64 mysql:8.4.0
+--platform linux/arm64 mariadb:11.2.4
