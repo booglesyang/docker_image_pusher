@@ -1,6 +1,5 @@
---platform linux/arm64 jumpserver/jms_all:v3.10.11
---platform linux/arm64/v8 jumpserver/redis:7.2
---platform linux/arm64/v8 jumpserver/mariadb:10.11
---platform linux/arm64 redis:7.2.5
---platform linux/arm64 mysql:8.4.0
---platform linux/arm64 mariadb:11.2.4
+--platform linux/arm64 opensearchproject/opensearch:v2.6.0
+--platform linux/arm64/v8 busybox:latest
+kubesphere/fluent-bit:v2.0.6-kylin-v10-arm64
+kubesphere/fluent-bit:v2.0.6 --platform arm64
+zl862520682/ks-console:v3.3.0
