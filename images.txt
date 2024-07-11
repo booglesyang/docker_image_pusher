@@ -1,4 +1,3 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
 onlyoffice/documentserver:8.1
---platform linux/arm64 onlyoffice/documentserver:7.1.0
 onlyoffice/documentserver:7.1.0
