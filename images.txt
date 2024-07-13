@@ -1,3 +1,20 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-onlyoffice/documentserver:8.1
-onlyoffice/documentserver:7.1.0
+go:1.22
+jc21/nginx-proxy-manager:2.11.3
+dgtlmoon/changedetection.io:0.45
+1panel/kubepi:v1.7.0
+lissy93/dashy:3.1.0
+bitnami/openldap:2.6.8
+wcjiang/linux-command:1.18.0
+b3log/siyuan:v3.1.0
+sonarqube:10.6.0-community
+linuxserver/nextcloud:29.0.3
+ghcr.io/screego/server:1.10.3
+rustdesk/rustdesk-server-s6:latest
+uusec/nanqiang:v4.5.1
+corentinth/it-tools:2024.5.13-a0bc346
+onlyoffice/documentserver:8.1.0.1
+mouday/domain-admin:v1.6.40
+jgraph/drawio:24.6.4
+linuxserver/speedtest-tracker
+adolfintel/speedtest
