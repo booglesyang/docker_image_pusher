@@ -1,6 +1,6 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
 golang:1.22
-golang:1.25
+golang:1.22.5
 jc21/nginx-proxy-manager:2.11.3
 dgtlmoon/changedetection.io:0.45
 1panel/kubepi:v1.7.0
