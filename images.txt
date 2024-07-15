@@ -1,8 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-lissy93/dashy:3.1.0
-nacos/nacos-server:v2.3.2
-bladex/sentinel-dashboard:1.8.7
-sonatype/nexus3:3.70.1
-sonarqube:10.6.0-community
-couchdb:3.3.3
-mouday/domain-admin:v1.6.40
+louislam/uptime-kuma:1.23.13
