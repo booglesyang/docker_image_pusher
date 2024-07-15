@@ -1,2 +1,8 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-louislam/uptime-kuma:1.23.13
+grafana/grafana:11.1.0
+rediscommander/redis-commander:latest
+lanol/filecodebox:beta
+mysql:8.2.0
+prom/prometheus:v2.53.1
+rustdesk/rustdesk-server-s6:latest
+filebrowser/filebrowser:v2.30.0
