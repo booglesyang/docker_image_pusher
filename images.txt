@@ -1,5 +1,7 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-kubesphere/pause:3.9
-kubesphere/pause:3.8
---platform linux/arm64 kubesphere/pause:3.9
---platform linux/arm64 kubesphere/pause:3.8
+registry.cn-beijing.aliyuncs.com/dotbalo/cni:v3.24.0
+registry.cn-beijing.aliyuncs.com/dotbalo/cni:v3.24.0
+registry.cn-beijing.aliyuncs.com/dotbalo/node:v3.24.0
+registry.cn-beijing.aliyuncs.com/dotbalo/node:v3.24.0
+registry.cn-beijing.aliyuncs.com/dotbalo/kube-controllers:v3.24.0
+registry.cn-beijing.aliyuncs.com/dotbalo/typha:v3.24.0
