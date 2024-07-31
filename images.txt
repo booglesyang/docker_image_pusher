@@ -1,3 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-registry.cn-beijing.aliyuncs.com/dotbalo/krm-backend:latest
-registry.cn-beijing.aliyuncs.com/dotbalo/krm-frontend:latest
+mouday/domain-admin:v1.6.42
