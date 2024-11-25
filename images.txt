@@ -1,4 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-jgraph/drawio:24.7.5
-dushixiang/guacd:latest
-dushixiang/next-terminal:latest
+chishin/nginx-proxy-manager-zh:release
