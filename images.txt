@@ -1,2 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-zoraxydocker/zoraxy:latest
+1panel/openresty:1.21.4.3-3-3-focal
