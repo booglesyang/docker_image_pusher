@@ -1,2 +1,5 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-1panel/openresty:1.21.4.3-3-3-focal
+nginx:1.27.2
+nginx:1.27
+nginx:1.27.2-alpine
+nginx:1.26
