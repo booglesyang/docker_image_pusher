@@ -1,6 +1,5 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-nginx:1.27.2
-nginx:1.27
-nginx:1.27.2-alpine
-nginx:1.26
-apache/hertzbeat
+mariadb:10
+redis:7.2-alpine
+crazymax/msmtpd:latest
+librenms/librenms:latest
