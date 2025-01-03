@@ -1,5 +1,4 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-mariadb:10
-redis:7.2-alpine
-crazymax/msmtpd:latest
-librenms/librenms:latest
+calico/cni:v3.25.0
+calico/node:v3.25.0
+calico/kube-controllers:v3.25.0
