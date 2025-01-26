@@ -1,4 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-mariadb:11.6.2
-mariadb:11.4
-mariadb:11
+collabora/code:24.04.5.1.1
