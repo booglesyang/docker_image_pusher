@@ -1,3 +1,4 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-rustdesk/rustdesk-server-s6:latest
-openvpn/openvpn-as:latest
+docker.seafile.top/seafileltd/memcached:1.6.18
+docker.seafile.top/seafileltd/elasticsearch:8.6.2
+docker.seafile.top/seafileltd/seafile-pro-mc:12.0.1-testing
