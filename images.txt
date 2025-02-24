@@ -1,4 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-docker.seafile.top/seafileltd/memcached:1.6.18
-docker.seafile.top/seafileltd/elasticsearch:8.6.2
-docker.seafile.top/seafileltd/seafile-pro-mc:12.0.1-testing
+aceberg/watchyourlan:v3
