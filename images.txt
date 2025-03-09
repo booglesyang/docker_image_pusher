@@ -1,2 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-aceberg/watchyourlan:v2
+lanol/filecodebox:beta
