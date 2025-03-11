@@ -1,2 +1,2 @@
 --platform linux/arm64 onlyoffice/documentserver:8.1
-lanol/filecodebox:beta
+zaunist/filebox:latest
