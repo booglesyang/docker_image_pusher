@@ -1,2 +1,1 @@
---platform linux/arm64 onlyoffice/documentserver:8.1
-jeessy/backup-x
+apache/hertzbeat:v1.6.1
