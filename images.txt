@@ -1,1 +1,6 @@
-apache/hertzbeat:v1.6.1
+registry.cn-hangzhou.aliyuncs.com/opsone/metrics-server:v0.7.2
+registry.cn-hangzhou.aliyuncs.com/opsone/influxdb:1.8.4-alpine
+registry.cn-hangzhou.aliyuncs.com/opsone/nginx:1.22.0
+registry.cn-beijing.aliyuncs.com/opsone/opsone-server:v4.5
+registry.cn-beijing.aliyuncs.com/opsone/opsone-web:v4.5
+registry.cn-hangzhou.aliyuncs.com/opsone/redis:latest
