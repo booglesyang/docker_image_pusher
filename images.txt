@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/opsone/mysql:8.0
+bjdgyc/anylink:latest
