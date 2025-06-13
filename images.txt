@@ -1,1 +1,1 @@
-bjdgyc/anylink:latest
+soulter/astrbot:latest
