@@ -1,1 +1,1 @@
-soulter/astrbot:latest
+m.daocloud.io/docker.io/library/nginx
