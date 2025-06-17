@@ -1,1 +1,1 @@
-jippi/pritunl:latest
+busybox
