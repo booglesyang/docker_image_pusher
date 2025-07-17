@@ -1,1 +1,1 @@
-ghcr.io/shelf-nu/shelf.nu:latest
+rancher/rancher:v2.11.3
