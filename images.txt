@@ -1,3 +1,4 @@
-centos:centos7.9.2009
---platform  linux/arm64 centos:centos7.9.2009
+cubuntu:24.04
+--platform  linux/arm64 ubuntu:24.04
+
 
